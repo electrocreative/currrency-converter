@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>currency_converter</h1>
+  <h1>currency-converter</h1>
 </div>
 <img src="waves.svg" width="100%" height="150">
 
@@ -13,7 +13,7 @@ Simple Python application that demonstrates:
 - Development of custom test cases to validate all functions based on provided specifications
 - Calling other functions and passing variable values between functions
 - Constructing JSON request bodies to pass supplied user input to API
-- Utilizing a Python module to call the [OpenExchangeRates](https://openexchangerates.org/) RESTful API web service
+- Utilizing a Python module to call the [OpenExchangeRates](https://openexchangerates.org/) ReSTful API web service
 - Parsing and formatting JSON responses as returned from the web service
 - Strict adherence to style guidelines
 - Implementing a fully functioning application
