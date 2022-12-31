@@ -17,3 +17,9 @@ Simple Python application that demonstrates:
 - Parsing and formatting JSON responses as returned from the web service
 - Strict adherence to style guidelines
 - Implementing a fully functioning application
+
+#### How to run:
+```
+> pipenv install introcs currency
+> python3 exchangeit.py
+```
